@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I plan to collaborate with people who will help me, give me ideas and inspire me.
 - 📫 How to reach me -> sefaozturk@gmail.com
-- 😄 Pronouns: he/his
-- ⚡ Fun fact: Learnin new things
+- 😄 Pronouns: he/his/him
+- ⚡ Fun fact: Learning new things.
 
 <!---
 sefa1972/sefa1972 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
